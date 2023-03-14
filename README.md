@@ -1,7 +1,8 @@
-# ImageCaptioning-in-Japanese
-ImageCaptioning in Japanese using fasttext and CLIP 
-
+# 画像キャプション自動生成モデル
+Pytorchを利用した画像キャプション自動生成モデルのチュートリアルです。
+エンコーダにCLIPで学習したViTを、デコーダにTransformerのデコーダ部を利用したモデルとなっています。
+流れは以下のようになっています。
 # To Do
 * Mecabのダウンロード
 * fasttextのダウンロード
-* モジュールのバージョン
+* モジュールのバージョン(更新版はおいおい作る)
