@@ -7,6 +7,12 @@ Pytorchを利用した画像キャプション自動生成モデルのチュー�
 * main.ipynb
   * データの前処理
   * モデルの構築・学習・推論と評価
+
+## インストール
+```
+$ pip install json
+$ pip install io
+```
 # To Do
 * Mecabのダウンロード
 * fasttextのダウンロード
