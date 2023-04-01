@@ -8,6 +8,8 @@ Pytorchを利用した画像キャプション自動生成モデルのチュー�
   * データの前処理
   * モデルの構築・学習・推論と評価
 
+本モデルの学習には、[STAIR Captions](https://github.com/STAIR-Lab-CIT/STAIR-captions)を使用しています。
+
 ## インストール
 ```
 $ pip install json
